@@ -1,0 +1,5 @@
+{
+  "name": "CloudGuard: Salesforce IAM Academy",
+  "description": "An interactive learning platform dedicated to mastering Salesforce Identity and Access Management (IAM), featuring deep dives into authentication, authorization, and security best practices.",
+  "requestFramePermissions": []
+}
